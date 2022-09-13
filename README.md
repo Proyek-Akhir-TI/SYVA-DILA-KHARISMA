@@ -1,7 +1,10 @@
 <h4>
     APLIKASI PENDAFTARAN ASOSIASI DAN PEMESANAN JASA BAGI UMKM DI RUMAH KREATIF BANYUWANGI BERBASIS WEB
 </h4>
+<h4>
+   361955401108
+</h4>
 
 <p>
-Platform Pengolahan Data Transaksi Hasil Panen Produk Komoditas Dengan Sistem Lelang Berbasis Web merupakan platform yang diharapkan dapat membantu dalam proses pengolahan Data Transaksi Aplikasi RojoTani yang sebelumnya telah ditambahkan melalui Platform berbasis Android. Platform ini menggunakan basis data MySQL dan menggunakan bahasa pemrograman PHP framework Laravel 8
+Merupakan platform yang dikembangkan untuk pelaku UMKM di rumah kreatif banyuwangi, guna mempermudah pemesanan fasilitas bagi pelaku UMKM seperti pemesanan desain dan jadwal konsultasi. Platform ini dijalankan menggunakan WEB yang dibangun dengan menggunakan bahasa pemrograman PHP, Framework Laravel 8 dan MySql sebagai databasenya  
 </p>
